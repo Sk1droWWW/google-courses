@@ -1,0 +1,21 @@
+[submodule "android-kotlin-retrofit"]
+	path = android-kotlin-retrofit
+	url = https://github.com/Sk1droWWW/android-kotlin-retrofit
+[submodule "android-kotlin-repository-pattern"]
+	path = android-kotlin-repository-pattern
+	url = https://github.com/Sk1droWWW/android-kotlin-repository-pattern.git
+[submodule "android-kotlin-recyclerview"]
+	path = android-kotlin-recyclerview
+	url = https://github.com/Sk1droWWW/android-kotlin-recyclerview.git
+[submodule "android-kotlin-mvvm-basics"]
+	path = android-kotlin-mvvm-basics
+	url = https://github.com/Sk1droWWW/android-kotlin-mvvm-basics.git
+[submodule "android-kotlin-firebase-login"]
+	path = android-kotlin-firebase-login
+	url = https://github.com/Sk1droWWW/android-kotlin-firebase-login.git
+[submodule "android-kotlin-webview"]
+	path = android-kotlin-webview
+	url = https://github.com/Sk1droWWW/android-kotlin-webview.git
+[submodule "android-kotlin-basic-samples"]
+	path = android-kotlin-basic-samples
+	url = https://github.com/Sk1droWWW/android-kotlin-basic-samples.git
